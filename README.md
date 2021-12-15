@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a system for live-compiling C for audio synthesis.
 - 🌱 I’m currently learning the [Raku](https://www.raku.org/) programming language as well as Rust.
 - 👯 I’m looking to collaborate on projects at the intersection of art and code.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Rust.
 - 💬 Ask me about [SOMNIUM](https://www.youtube.com/watch?v=rNEHmrmx7EI)
 - 📫 How to reach me: name at gmail
 - 😄 Pronouns: he/him
